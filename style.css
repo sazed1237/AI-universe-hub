@@ -1,0 +1,66 @@
+.header{
+    text-align: center;
+}
+.see-all{
+    text-align: center;
+}
+
+button{
+    height: 50px;
+}
+
+.details-btn {
+    text-align: end;
+}
+
+#page-loader{
+    height: 500px;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+}
+
+.modal-card{
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+
+/* .bg-dang{
+    background-color: red;
+    color: black;
+} */
+
+.box-highlight{
+    display: flex;
+    height: 80px;
+    background-color: white;
+    border-radius: 8px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    font-weight: bolder;
+    /* margin-left: 2px; */
+}
+
+.bgColor{
+    background-color: #f5eeee;
+}
+
+.adjust-height{
+    height: 450px;
+    width: 470px;
+    background: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.adjust-height img{
+    border-radius: 15px;
+    height: 300px;
+}
+
+.card-text{
+    line-height: 1rem;
+}
